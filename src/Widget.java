@@ -1,7 +1,7 @@
 /***
  * Author: Kyara Cruz Gutierrez
  * Date: 29 September 2018
- * FILE: Widget.java
+ * FILE: Widget..java
  */
 import java.util.Date;
 
