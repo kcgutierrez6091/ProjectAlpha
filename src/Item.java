@@ -2,7 +2,7 @@
  * Author: Kyara Cruz Gutierrez
  * Date: 29 September 2018
  * FILE: Item.java
- * This interface called Item that will force all classes to implement the following functions.
+ * About: ###STEP 2### This interface called Item that will force all classes to implement the following functions.
  */
 
 import java.util.Date;

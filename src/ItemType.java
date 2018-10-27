@@ -1,8 +1,9 @@
 /***
  * Author: Kyara Cruz Gutierrez
  * Date: 29 September 2018
+ * Updated: 27 October 2018
  * FILE: ItemType.java
- * All items will have a pre-set type.  Currently there are 4 types.  Create an enum called ItemTypethat will store
+ * About: ###STEP 4### All items will have a pre-set type.  Currently there are 4 types.  Create an enum called ItemTypethat will store
  * the following information.
  */
 
