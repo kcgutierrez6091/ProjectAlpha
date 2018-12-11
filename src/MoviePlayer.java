@@ -48,7 +48,7 @@ public class MoviePlayer extends Product implements MultimediaControl, Comparabl
 
     public void play() {
 
-        System.out.println("Playing");
+        System.out.println("Playing Movie");
 
     }
 
@@ -56,7 +56,7 @@ public class MoviePlayer extends Product implements MultimediaControl, Comparabl
 
     public void stop() {
 
-        System.out.println("Stopped");
+        System.out.println("Movie Stopped");
 
     }
 
@@ -64,7 +64,7 @@ public class MoviePlayer extends Product implements MultimediaControl, Comparabl
 
     public void previous() {
 
-        System.out.println("Previous");
+        System.out.println("Previous Movie");
 
     }
 
@@ -72,7 +72,7 @@ public class MoviePlayer extends Product implements MultimediaControl, Comparabl
 
     public void next() {
 
-        System.out.println("Next");
+        System.out.println("Next Movie");
 
     }
 

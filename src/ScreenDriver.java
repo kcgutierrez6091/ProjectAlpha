@@ -1,5 +1,5 @@
 /***
- * Author: Kyara Cruz Gutierrez
+ * @author: Kyara Cruz Gutierrez
  * Date: 27 October 2018
  * FILE: Screen
  * About: ###Step 10### Create a driver that tests the screen class

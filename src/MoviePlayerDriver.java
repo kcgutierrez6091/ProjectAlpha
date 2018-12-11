@@ -15,13 +15,6 @@ public class MoviePlayerDriver {
 
         System.out.println(player);
 
-        player.play();
-
-        player.previous();
-
-        player.next();
-
-        player.stop();
 
     }
 

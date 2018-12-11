@@ -1,7 +1,8 @@
 /***
  * Author: Kyara Cruz Gutierrez
  * Date: 29 September 2018
- * Updated: 27 October 2018
+ * Updated: 10 December 2018
+ * This was updated because of Professor VanSelow's Replit.
  * FILE: AudioPlayerDriver.java
  * About: ###STEP 6## Create a driver class for AudioPlayer that will test to see whether we can instantiate occurrences of it, use
  * the media controls and print out their details to the console.
